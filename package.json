@@ -1,7 +1,14 @@
 {
-  "name": "codepro",
-  "private": true,
-  "version": "0.0.0",
+  "name": "pj-ui",
+  "version": "0.1.0",
+  "description": "0.0.1",
+  "private": false,
+  "author": "ruiqi11",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
