@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:18610356683/pj-ui.git"
   },
   "type": "module",
   "scripts": {
